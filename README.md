@@ -2,14 +2,15 @@
 
 This project implements demand forecasting using the Temporal Fusion Transformer (TFT) model. The main objective is to predict the quantity of a product (or other demand metric) based on historical sales data and external covariates.
 
-                   ![Time Series Forcasting](https://2.bp.blogspot.com/-s4AbzDcZNaY/XBTGDoa9iRI/AAAAAAAADko/CBtR7qUDHqYnh3zd1-DNGkwuQExTmgJSwCLcBGAs/s640/TimeSeries.jpg)
+![Time Series Forcasting](https://2.bp.blogspot.com/-s4AbzDcZNaY/XBTGDoa9iRI/AAAAAAAADko/CBtR7qUDHqYnh3zd1-DNGkwuQExTmgJSwCLcBGAs/s640/TimeSeries.jpg)
+
 ## Overview
 
 This project consists of two primary functionalities:
 1. **Model Training**: The TFT model is trained on historical sales data to learn patterns and relationships.
 2. **Demand Prediction**: The trained model is used to predict future demand, and the performance is evaluated using metrics such as Mean Absolute Percentage Error (MAPE).
 
-                    ![DARTS Forcasting](https://unit8.com/wp-content/uploads/2021/07/1_yaHh5V0AgxEYxJYrv9VQmA.png)
+![DARTS Forcasting](https://unit8.com/wp-content/uploads/2021/07/1_yaHh5V0AgxEYxJYrv9VQmA.png)
 
 The process involves:
 - Preprocessing and preparing the dataset.
@@ -18,7 +19,7 @@ The process involves:
 - Visualizing the predictions and actual sales data.
 - Saving the final predictions for later use.
 
-                    ![Temporal Fusion Transformer](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*OXba8Hi61f6TPQL8yl75Rw.png)
+![Temporal Fusion Transformer](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*OXba8Hi61f6TPQL8yl75Rw.png)
 
 ## Requirements
 
