@@ -1,0 +1,7 @@
+Model,input_chunk_length,output_chunk_length,hidden_size,lstm_layers,num_attention_heads,dropout,batch_size,lr,MAPE
+Toyota Avalon,6,4,15,3,4,0.255579944,32,8.85E-05,4.981485557
+Toyota Corolla,8,4,29,10,4,0.274962767,16,3.28E-05,5.781326863
+Toyota Sienna,6,4,29,5,7,0.241050997,16,2.57E-05,11.35951809
+Toyota Camry,8,4,24,4,11,0.236091989,16,1.61E-05,2.53906105
+Toyota Highlander,6,4,16,14,8,0.198086769,16,9.92E-05,11.03595835
+Toyota Tundra,6,4,10,6,5,0.251549488,32,2.99E-05,10.02332325
